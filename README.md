@@ -64,9 +64,7 @@ Acredito que o caminho — os erros, acertos e aprendizados — é o que realmen
 ### Onde me encontrar
 
 📩 **E-mail:** pietrohenriquefranca28@gmail.com  
-💼 **LinkedIn:** [www.linkedin.com/in/
-pietro-henrique-4573b0360](https://linkedin.com/in/
-pietro-henrique-4573b0360)  
+💼 **LinkedIn:** [www.linkedin.com/in/pietro-henrique-4573b0360](https://linkedin.com/in/pietro-henrique-4573b0360)  
 🐙 **GitHub:** [github.com/pietroo28](https://github.com/pietroo28)
 
 ---
