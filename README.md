@@ -27,7 +27,7 @@ controle de frotas, agendamento de clínicas, e-commerce, apps de pedidos e muit
 
 ### Tecnologias que estudo e utilizo:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,reactnative,nodejs,php,laravel,mysql,java,html,css,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,php,mysql,html,css,git,python)](https://skillicons.dev)
 
 ---
 
@@ -46,8 +46,8 @@ controle de frotas, agendamento de clínicas, e-commerce, apps de pedidos e muit
 ### Estatísticas do GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=enzoea&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoea&layout=compact&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pietroo28&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietroo28&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -64,7 +64,9 @@ Acredito que o caminho — os erros, acertos e aprendizados — é o que realmen
 ### Onde me encontrar
 
 📩 **E-mail:** pietrohenriquefranca28@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/enzomartinsdev](https://linkedin.com/in/enzomartinsdev)  
+💼 **LinkedIn:** [www.linkedin.com/in/
+pietro-henrique-4573b0360](https://linkedin.com/in/
+pietro-henrique-4573b0360)  
 🐙 **GitHub:** [github.com/pietroo28](https://github.com/pietroo28)
 
 ---
