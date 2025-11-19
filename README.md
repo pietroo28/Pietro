@@ -1,7 +1,5 @@
 <!-- Banner opcional (você pode trocar a URL por uma imagem sua ou personalizada) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:9333ea&height=180&section=header&text=Enzo%20Martins%20&fontSize=40&fontColor=fff&animation=twinkling" />
-</p>
+
 
 ## Olá sou o Pietro
 
